@@ -1,12 +1,14 @@
-# Discourse on Method (1637)
+# Rene Descartes
+
+## Discourse on Method (1637)
 
 By Rene Descartes
 
-## Part I
+### Part I
 
 *Some bullshit preword about developing his Method.*
 
-## Part II
+### Part II
 
 You ever notice that things made by multiple ppl/committees kinda suck, and things made by a single architect are cool? That's why God made cool shit.
 
@@ -19,11 +21,11 @@ Math/logic is complicated and hard, so I'm gonna only follow these hard rules,
 3. Start with the most simple truths, and build up to more complex truths
 4. Solve for the general case
 
-## Part III
+### Part III
 
 *Some bullshit about temporary rules he followed while figuring out what is true.*
 
-## Part IV
+### Part IV
 
 We can't trust our senses and perceptions when looking for truth. The only thing that is obviously and inherently true is **cogito ergo sum** (I think, therefore I am). The mind is distinct from, and can exist without the body.
 
@@ -33,7 +35,7 @@ You know how geometry nerds can prove properties *about* triangles like their an
 
 Still don't believe in God? Ok, you know how we have true thoughts and false thoughts? The fact that we can have false thoughts that are proven by nothing is because we are imperfect minds. All things we know to be clearly true are true because a perfect God made them exist. It doesn't make sense that false things are made by God, nor that true things are proven by nothing.
 
-## Part V
+### Part V
 
 *Boasting about how he figured out how the physics of the universe works, heliocentrism, etc*. Based on what I figured out, it's obvious that God only created the initial chaos and natural laws of the universe, and the world as we know it now came about from following those natural laws. God didn't do anything after that. Easier to believe things gradually came into existence, rather than being created in their final form.
 
@@ -44,6 +46,6 @@ Execpt people, God created humans himself. *Goes into detail about how human blo
 
 Even dumbasses can do those two things. It's called *having a soul*. And a soul can't be a physical thing, so only God could have created it. Also the soul is immortal. *mic drop*
 
-## Part VI
+### Part VI
 
 *A lot of bullshit about him writing this for the greater good of mankind.*
