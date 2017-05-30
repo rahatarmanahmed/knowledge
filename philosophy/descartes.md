@@ -4,9 +4,9 @@ One of the first thinkers to emphasize using reason to develop the natural scien
 
 ## Methodological Skepticism
 
-*AKA Cartesian Doubt*, where Descartes throws out all prior beliefs and reestablishes them from scratch if he can prove them without a single doubt.
+*AKA Cartesian Doubt*, where Descartes throws out all prior beliefs and rebuilds them from scratch if he can prove them without a single doubt.
 
-He starts with one principle: **cogito ergo sum**, "I think, therefore I exist". He discards perceptions as unreliable, saying only deduction by reason can be proof of truth.
+He starts with one self-evident principle: **cogito ergo sum**, "I think, therefore I exist". He discards perceptions as unreliable, saying only deduction by reason can be proof of truth.
 
 ## Proofs of God
 
