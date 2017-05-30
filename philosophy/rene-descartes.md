@@ -1,5 +1,19 @@
 # Rene Descartes
 
+One of the first thinkers to emphasize using reason to develop the natural sciences.
+
+## Methodological Skepticism
+
+*AKA Cartesian Doubt*, where Descartes throws out all prior beliefs and reestablishes them from scratch if he can prove them without a single doubt.
+
+He starts with one principle: **cogito ergo sum**, "I think, therefore I exist". He discards perceptions as unreliable, saying only deduction by reason can be proof of truth.
+
+## Proofs of God
+
+He gives some shaky proofs in *Discourse on Method*. [TODO: update this after reading Meditations].
+
+# Reading Notes
+
 ## Discourse on Method (1637)
 
 By Rene Descartes
